@@ -1,0 +1,7 @@
+Meta tag
+1.<meta charset="utff-8">
+2.<meta http-equive="X-UA compatible" content="IE=edge"> ms edge e display korar jonno.
+3.<meta name="veiwport" content="width=device-width, initial-scale=1.0> mobile valo vabe dekhar jonno.
+
+amra jodi emon link banate chai je ami click korle top mid ba jekono jaigai nie jabe tahole shei link
+tar id and jekhane nite chassi tar id same dite hobe.
